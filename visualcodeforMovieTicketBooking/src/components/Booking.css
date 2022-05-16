@@ -1,0 +1,11 @@
+.komal{
+    background-image: url(../components/pics/booking.jpg);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+    /* background-attachment: fixed; */
+  }

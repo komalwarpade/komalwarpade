@@ -1,0 +1,82 @@
+/* body {
+    margin: 0;
+    background-image: url(./components/pics/pexels-skitterphoto-390089.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  
+ 
+
+  } */
+
+
+  .siva{
+    background-image: url(../components/pics/one.jpg);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+    /* background-attachment: fixed; */
+    
+
+    
+
+  }
+  .vinay{
+    background-image: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(9,113,121,1) 47%, rgba(2,0,36,1) 100%);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+    
+
+  }
+  .vamsi{
+    background-image: url(../components/pics/photo-1542204165-65bf26472b9b.avif);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+
+
+  }
+  .mi{
+    background-image: url(../components/pics/gray-abstract-wireframe-technology-background_53876-101941.webp);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+
+  }
+  .komal{
+    background-image: url(../components/pics/one.jpg);
+    
+    height: auto;
+    background-repeat: no-repeat, repeat;
+
+    background-position: center;
+
+    background-size: 100% 100%;
+    /* background-attachment: fixed; */
+  }
